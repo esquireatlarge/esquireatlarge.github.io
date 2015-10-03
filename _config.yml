@@ -20,7 +20,7 @@ github_username:  esquireatlarge
 #stackoverflow_link: http://
 
 # Footer
-footer_left: "Theme: <a href=\"http://carte-noire.jacobtomlinson.co.uk/">Carte-Noire</a>"
+footer_left: "Theme: "<a href=\"http://carte-noire.jacobtomlinson.co.uk/">Carte-Noire</a>""
 #footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
