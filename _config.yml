@@ -5,7 +5,8 @@ description: "The blog of the Esquire At Large"
 baseurl: ""
 url: "http://sguerri.com"
 title_description: "The Esquire's Thurts"
-title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+#title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "http://imgur.com/xOBnI8I"
 google_analytics: "UA-20365477-4"
 disqus_account: 
 github_repository: https://github.com/esquireatlarge
