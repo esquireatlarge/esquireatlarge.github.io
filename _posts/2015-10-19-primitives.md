@@ -11,11 +11,11 @@ So what is an example of a primitive?
 Well, an `int` is a primitive, as is a `double`, `float`, `char`, `bool`.
 Here is a list of primitives for C++:
 ```cpp
-int
-float
-double
-char
-bool
-wchar_t
-void
+int\n
+float\n
+double\n
+char\n
+bool\n
+wchar_t\n
+void\n
 ```
