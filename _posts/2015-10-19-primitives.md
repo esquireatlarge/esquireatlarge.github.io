@@ -10,12 +10,15 @@ A primitive is a built-in type that can be used on its own or as part of a large
 So what is an example of a primitive? 
 Well, an `int` is a primitive, as is a `double`, `float`, `char`, `bool`.
 Here is a list of primitives for C++:
+
 ```cpp
-int\n
-float\n
-double\n
-char\n
-bool\n
-wchar_t\n
-void\n
+int
+float
+double
+char
+bool
+wcha_t
+void
 ```
+
+What's important to note is that everything in a computer is bytes - everything.  This means that each primitive is just a different interpretation of a series of bytes.  For example an integer is four bytes, but so is a float.  
