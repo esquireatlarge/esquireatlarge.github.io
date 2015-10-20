@@ -17,7 +17,7 @@ float
 double
 char
 bool
-wcha_t
+wchar_t
 void
 ```
 
