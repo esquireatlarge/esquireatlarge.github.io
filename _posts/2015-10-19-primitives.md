@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Primitives"
+date: 2015-10-19
+---
+
 You may have heard the word "primitive" before in context of computing, but what is a primitive?
 A primitive is a built-in type that can be used on its own or as part of a larger, more complex user-defined object (a class).
 
