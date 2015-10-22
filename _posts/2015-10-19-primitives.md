@@ -8,10 +8,10 @@ You may have heard the word "primitive" before in context of computing, but what
 A primitive is a built-in type that can be used on its own or as part of a larger, more complex user-defined object (a class).
 
 So what is an example of a primitive? 
-Well, an `int` is a primitive, as is a `double`, `float`, `char`, `bool`.
+Well, an `int` is a primitive, as is a double, float, char, bool.
 Here is a list of primitives for C++:
 
-```cpp
+```c_cpp
 int
 float
 double
@@ -22,11 +22,11 @@ void
 ```
 
 What's important to note is that everything in a computer is bytes - everything.  This means that each primitive is just a different interpretation of a series of bytes.  As an example let's take a look at this C++ code:
-```cpp
+```c_cpp
 std::cout << sizeof(int) * CHAR_BIT << std::endl;
 ```
 
-This code will output how many bits comprise the primitive `int`.  In this case the output is `32`.
+This code will output how many bits comprise the primitive `int`.  In this case the output is 32.
 But how did we arrive at this number?  Let's break the code down:
 The two keywords to note here are `sizeof` and `CHAR_BIT`; cout and endl are just used for writing to the console.
 The sizeof operator is a keyword that when used on a datatype will return the byte size of that object.  In the case of an integer this bit of code:
@@ -37,7 +37,7 @@ This is all looking good, but what if we are working on a system where a byte **
 
 
 Let's look at the size of a float:
-```cpp
+```c_cpp
 std::cout << sizeof(float) * CHAR_BIT << std::endl;
 ```
 This code again says 32 bits.  So does that mean a float is the same as an integer?  In memory they do share the same size, however a float is interpreted differently so as to provide a fractional value.  Floats are calculated using the [IEEE 754](https://en.wikipedia.org/wiki/IEEE_floating_point) standard.
