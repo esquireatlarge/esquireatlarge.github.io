@@ -22,9 +22,9 @@ void
 ```
 
 What's important to note is that everything in a computer is bytes - everything.  This means that each primitive is just a different interpretation of a series of bytes.  As an example let's take a look at this C++ code:
-```c_cpp
+{% highlight cpp %}
 std::cout << sizeof(int) * CHAR_BIT << std::endl;
-```
+{% endhighlight %}
 
 This code will output how many bits comprise the primitive `int`.  In this case the output is 32.
 But how did we arrive at this number?  Let's break the code down:
