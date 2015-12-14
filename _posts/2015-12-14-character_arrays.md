@@ -2,7 +2,7 @@
 layout: post
 title: "Character Arrays and Strings"
 date: 2015-12-14
-tags: character arrays strings c c++ c prus prus
+tags: character arrays strings c c++
 description: We're talkin` arrays and strings here
 ---
 
