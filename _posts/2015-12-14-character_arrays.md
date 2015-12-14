@@ -40,6 +40,7 @@ The cherry on top which will give us a C-string is the _null terminator_.  The n
 `\0`
 
 That's a single character, by the way, not two.  This character (which you'll notice is a zero value, similar to how 'a' is 97) tells the system not to read any further.  One might question why this is necessary when we already specified the size of our array to be five, why keep reading after that?
+
 It's true that you know the size of this array, but in practical applications one might not know this size, and even if you did a user's input might not always fill up the buffer.  To that end, the null terminator serves as a _sentinel value_ that lets us know when there is no more data to read.
 
 Let's revise our earlier example:
