@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "First Post"
-date: 2015-10-01
+date: 2015-10-01 
+tags: first post firstiest postiest
+description: The Christening
 ---
 
 Very first post!  
