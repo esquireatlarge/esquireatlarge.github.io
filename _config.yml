@@ -1,21 +1,20 @@
 # Jekyll configuration
 
-name: Blog Name
-description: Software Developer
+name: Esquire's Blog
+description: There's stuff on here...
 
-# Url is currently only used only for the RSS feed in feed.xml
-url: http://streetturtle.github.io
+url: http://esquireatlarge.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+baseurl: 
 
 social:
-  github: streetturtle
-  stackoverflow: ''
+  github: esquireatlarge
+  stackoverflow: 
   linkedin:
-  instagram: ''
-  lastfm: ''
+  instagram: 
+  lastfm: 
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
