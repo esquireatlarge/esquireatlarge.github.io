@@ -3,7 +3,7 @@ layout: post
 title: "Character Arrays and Strings"
 date: 2015-12-14
 tags: character arrays strings c c++ c prus prus
-description: We're talkin` arrays and string here
+description: We're talkin` arrays and strings here
 ---
 
 Before we look at character arrays, let's first define what an array is.  An array is a sequential list of memory locations ("blocks").  If you declare an array like so:
