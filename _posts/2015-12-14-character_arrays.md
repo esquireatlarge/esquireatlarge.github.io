@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Character Arrays and Strings"
-date: 2015-10-19
+date: 2015-12-14
 ---
 
 Before we look at character arrays, let's first define what an array is.  An array is a sequential list of memory locations ("blocks").  If you declare an array like so:
