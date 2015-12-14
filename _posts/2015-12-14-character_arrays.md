@@ -34,6 +34,7 @@ arr[4] = 'o';
 We've made a C-string haven't we?  Yay!  If we printed that, we should get "hello", right?  
 
 Nope.  What you've got there is just a series of single-byte blocks one after the other.  *You* know that they spell "hello," but that doesn't mean the system knows that.  How would the system even know when to stop reading?
+
 The cherry on top which will give us a C-string is the _null terminator_.  The null terminator denotes the end of a C-style string, and looks like:
 
 `\0`
