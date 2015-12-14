@@ -2,11 +2,6 @@
 layout: post
 title: "Domain Forwarding and NameCheap"
 date: 2015-12-14
----
----
-layout: post
-title: "Domain Forwarding and NameCheap"
-date: 2015-12-14
 tags: domain forward namecheap
 description: That crazy NameCheap's antics
 ---
