@@ -11,7 +11,7 @@ So what is an example of a primitive?
 Well, an `int` is a primitive, as is a double, float, char, bool.
 Here is a list of primitives for C++:
 
-```c_cpp
+```cpp
 int
 float
 double
@@ -37,7 +37,7 @@ This is all looking good, but what if we are working on a system where a byte **
 
 
 Let's look at the size of a float:
-```c_cpp
+```cpp
 std::cout << sizeof(float) * CHAR_BIT << std::endl;
 ```
 This code again says 32 bits.  So does that mean a float is the same as an integer?  In memory they do share the same size, however a float is interpreted differently so as to provide a fractional value.  Floats are calculated using the [IEEE 754](https://en.wikipedia.org/wiki/IEEE_floating_point) standard.
