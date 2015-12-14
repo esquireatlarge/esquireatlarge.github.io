@@ -3,7 +3,6 @@
 name: Esquire's Blog
 description: There's stuff on here...
 
-# Url is currently only used only for the RSS feed in feed.xml
 url: http://esquireatlarge.github.io
 #url: http://localhost:4000
 
@@ -12,10 +11,10 @@ baseurl:
 
 social:
   github: esquireatlarge
-  stackoverflow: ''
+  stackoverflow: 
   linkedin:
-  instagram: ''
-  lastfm: ''
+  instagram: 
+  lastfm: 
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
