@@ -20,7 +20,7 @@ As you might be able to guess, a character array is just as follows:
 
 Now we are reserving 5 bytes, with each character (in C/C++) being a _single byte_, no fancy Unicode.  Imagine a code snipper like so:
 
-{% highlight c_cpp %}
+{% highlight cpp %}
 char arr[5];
 arr[0] = 'h';
 arr[1] = 'e';
