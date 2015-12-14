@@ -17,7 +17,7 @@ For the array declared above, we are reserving 20 bytes.  An integer is 4 bytes,
 As you might be able to guess, a character array is just as follows:
 
 {% highlight cpp %}
-char arr[5]`
+char arr[5]
 {% endhighlight %}
 
 Now we are reserving 5 bytes, with each character (in C/C++) being a _single byte_, no fancy Unicode.  Imagine a code snippet like so:
