@@ -10,4 +10,4 @@ I am a software developer in the United States.  Below is a representation of
 !["Man of Mystery"](http://i.imgur.com/OWx6JeN.jpg "International Man of Mystery!")
 
 
-[//] (https://github.com/jekyll/jekyll/issues/3219)
+[//]: # (https://github.com/jekyll/jekyll/issues/3219)
