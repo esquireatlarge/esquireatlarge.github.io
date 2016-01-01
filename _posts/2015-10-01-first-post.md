@@ -4,6 +4,7 @@ title: "First Post"
 date: 2015-10-01 
 tags: 
 description: The Christening
+visible: 1
 ---
 
 Very first post!  
