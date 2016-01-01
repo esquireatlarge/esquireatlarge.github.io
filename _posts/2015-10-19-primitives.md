@@ -3,7 +3,8 @@ layout: post
 title: "Primitives"
 date: 2015-10-19
 tags: primitives c c++
-description: A quick discussion about C++ primitives
+description: A brief discussion about C++ primitives
+visible: 1
 ---
 
 You may have heard the word "primitive" before in context of computing, but what is a primitive?
