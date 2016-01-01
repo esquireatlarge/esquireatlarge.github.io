@@ -4,6 +4,7 @@ title: "Domain Forwarding and NameCheap"
 date: 2015-12-14
 tags: domain forward namecheap
 description: That crazy NameCheap's antics
+visible: 1
 ---
 
 I've found that the domain registrar NameCheap adds an extra layer of confusion when trying to forward to a domain name.
