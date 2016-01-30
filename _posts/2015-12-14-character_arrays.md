@@ -7,6 +7,8 @@ description: We're talkin` arrays and strings here
 visible: 1
 ---
 
+_Edit January 29th, 2016_:  Sometimes one will see the type _char_ used to read binary data.  While a char is the same size a byte, it's intended to be interpreted as an ASCII character (C# is two bytes, for Unicode).  It is good practice to demonstrate intent through code; for binary data it is more accurate to use an _unsigned char_, which also appears typedefined as _uint8__t__.
+
 Before we look at character arrays, let's first define what an array is.  An array is a sequential list of memory locations ("blocks").  If you declare an array like so:
 
 `int arr[5]`
