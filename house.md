@@ -7,33 +7,33 @@ title: Home Paint Selections
 
 {: .center }
 Antique White
-!["One"](http://sguerri.com/images/house/antique_white.png "One")
+!["One"](http://sguerri.com/images/house/antique_white.png "Antique White")
 Ancient Scroll
-!["Two"](http://sguerri.com/images/house/ancient_scroll.png "Two")
+!["Two"](http://sguerri.com/images/house/ancient_scroll.png "Ancient Scroll")
 Basswood
-!["Three"](http://sguerri.com/images/house/basswood.png "Three")
+!["Three"](http://sguerri.com/images/house/basswood.png "Basswood")
 Cafe Cream
-!["Four"](http://sguerri.com/images/house/cafe_cream.png "Four")
+!["Four"](http://sguerri.com/images/house/cafe_cream.png "Cafe Cream")
 Carmelite
-!["Five"](http://sguerri.com/images/house/carmelite.png "Five")
+!["Five"](http://sguerri.com/images/house/carmelite.png "Carmelite")
 French Beige
-!["Six"](http://sguerri.com/images/house/french_beige.png "Six")
+!["Six"](http://sguerri.com/images/house/french_beige.png "French Beige")
 French Creme
-!["Seven"](http://sguerri.com/images/house/french_creme.png "Seven")
+!["Seven"](http://sguerri.com/images/house/french_creme.png "French Creme")
 Irish Creme
-!["Eight"](http://sguerri.com/images/house/irish_creme.png "Eight")
+!["Eight"](http://sguerri.com/images/house/irish_creme.png "Irish Creme")
 Linen White
-!["Nine"](http://sguerri.com/images/house/linen_white.png "Nine")
+!["Nine"](http://sguerri.com/images/house/linen_white.png "Linen White")
 Loft Light
-!["Ten"](http://sguerri.com/images/house/loft_light.png "Ten")
+!["Ten"](http://sguerri.com/images/house/loft_light.png "Loft Light")
 Parisian Cafe
-!["Eleven"](http://sguerri.com/images/house/parisian_cafe.png "Eleven")
+!["Eleven"](http://sguerri.com/images/house/parisian_cafe.png "Parisian Cafe")
 Polished Pearl
-!["Twelve"](http://sguerri.com/images/house/polished_pearl.png "Twelve")
+!["Twelve"](http://sguerri.com/images/house/polished_pearl.png "Polished Pearl")
 Raffia Cream
-!["Thirteen"](http://sguerri.com/images/house/raffia_cream.png "Thirteen")
+!["Thirteen"](http://sguerri.com/images/house/raffia_cream.png "Raffia Cream")
 Sand Motif
-!["Fourteen"](http://sguerri.com/images/house/sand_motif.png "Fourteen")
+!["Fourteen"](http://sguerri.com/images/house/sand_motif.png "Sand Motif")
 
 
 [//]: # (https://github.com/jekyll/jekyll/issues/3219)
