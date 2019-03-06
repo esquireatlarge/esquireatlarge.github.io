@@ -6,33 +6,33 @@ title: Home Paint Selections
 
 
 {: .center }
-One
+Antique White
 !["One"](http://sguerri.com/images/house/antique_white.png "One")
-Two
+Ancient Scroll
 !["Two"](http://sguerri.com/images/house/ancient_scroll.png "Two")
-Three
+Basswood
 !["Three"](http://sguerri.com/images/house/basswood.png "Three")
-Four
+Cafe Cream
 !["Four"](http://sguerri.com/images/house/cafe_cream.png "Four")
-Five
+Carmelite
 !["Five"](http://sguerri.com/images/house/carmelite.png "Five")
-Six
+French Beige
 !["Six"](http://sguerri.com/images/house/french_beige.png "Six")
-Seven
+French Creme
 !["Seven"](http://sguerri.com/images/house/french_creme.png "Seven")
-Eight
+Irish Creme
 !["Eight"](http://sguerri.com/images/house/irish_creme.png "Eight")
-Nine
+Linen White
 !["Nine"](http://sguerri.com/images/house/linen_white.png "Nine")
-Ten
+Loft Light
 !["Ten"](http://sguerri.com/images/house/loft_light.png "Ten")
-Eleven
+Parisian Cafe
 !["Eleven"](http://sguerri.com/images/house/parisian_cafe.png "Eleven")
-Twelve
+Polished Pearl
 !["Twelve"](http://sguerri.com/images/house/polished_pearl.png "Twelve")
-Thirteen
+Raffia Cream
 !["Thirteen"](http://sguerri.com/images/house/raffia_cream.png "Thirteen")
-Fourteen
+Sand Motif
 !["Fourteen"](http://sguerri.com/images/house/sand_motif.png "Fourteen")
 
 
