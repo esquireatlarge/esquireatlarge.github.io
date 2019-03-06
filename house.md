@@ -34,7 +34,12 @@ Raffia Cream
 !["Thirteen"](http://sguerri.com/images/house/raffia_cream.png "Raffia Cream")
 Sand Motif
 !["Fourteen"](http://sguerri.com/images/house/sand_motif.png "Sand Motif")
-
+Gravelstone
+!["Fifteen"](http://sguerri.com/images/house/gravelstone.png "Gravelstone")
+Almond Wisp
+!["Fifteen"](http://sguerri.com/images/house/almond_wisp.png "Almond Wisp")
+Spanish Sand
+!["Fifteen"](http://sguerri.com/images/house/spanish_sand.png "Spanish Sand")
 
 [//]: # (https://github.com/jekyll/jekyll/issues/3219)
 
