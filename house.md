@@ -37,7 +37,7 @@ Sand Motif
 Gravelstone
 !["Fifteen"](http://sguerri.com/images/house/gravelstone.png "Gravelstone")
 Almond Wisp
-!["Sixteen"](http://sguerri.com/images/house/almond wisp.png "Almond Wisp")
+!["Sixteen"](http://sguerri.com/images/house/almond_wisp.png "Almond Wisp")
 Spanish Sand
 !["Seventeen"](http://sguerri.com/images/house/spanish_sand.png "Spanish Sand")
 
