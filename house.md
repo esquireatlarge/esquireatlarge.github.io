@@ -37,9 +37,9 @@ Sand Motif
 Gravelstone
 !["Fifteen"](http://sguerri.com/images/house/gravelstone.png "Gravelstone")
 Almond Wisp
-!["Fifteen"](http://sguerri.com/images/house/almond_wisp.png "Almond Wisp")
+!["Sixteen"](http://sguerri.com/images/house/almond wisp.png "Almond Wisp")
 Spanish Sand
-!["Fifteen"](http://sguerri.com/images/house/spanish_sand.png "Spanish Sand")
+!["Seventeen"](http://sguerri.com/images/house/spanish_sand.png "Spanish Sand")
 
 [//]: # (https://github.com/jekyll/jekyll/issues/3219)
 
